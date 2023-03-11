@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
 	return (
-		<div className='App'>
+		<div className='bg-zinc-200 h-screen overflow-hidden box-border m-0'>
 		</div>
 	);
 }
